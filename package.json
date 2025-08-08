@@ -9,6 +9,7 @@
     "http": "^0.0.1-security",
     "sqlite": "^5.1.1",
     "sqlite3": "^5.1.7"
+    "license": "MIT"
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
